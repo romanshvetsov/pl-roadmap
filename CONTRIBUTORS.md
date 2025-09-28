@@ -3,7 +3,7 @@
 ## Lead Developer
 - **Roman Shvetsov** - Product Manager & Developer
   - GitHub: [@romanshvetsov](https://github.com/romanshvetsov)
-  - Email: romanshvetsov@example.com
+  - Email: me@romanshvetsov.ru
 
 ## Acknowledgments
 - Thanks to the FastAPI community for the excellent framework
